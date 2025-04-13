@@ -10,7 +10,7 @@ I live in **Adama, Ethiopia** and I study at **Adama Science and Technology Univ
 
 I'm passionate about **coding** and **technology** 💻. I love solving problems and coming up with helpful ideas 💡. I'm always learning and catching up with **new and trending technologies** 🚀.
 
-I’m also interested in **DevOps** ⚙️ and understanding how **computers and technology work** in general. I enjoy knowing how things run behind the scenes 🧠.
+I’m also interested in understanding how **computers and technology work** in general. I enjoy knowing how things run behind the scenes 🧠.
 
 ---
 
